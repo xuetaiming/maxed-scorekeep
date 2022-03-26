@@ -1,3 +1,3 @@
 # maxed-scorekeep
 
-upload your scoresheets and scoresheet companion files for MAXED here.
+Fork or branch this repository, upload your scoresheets and companion files, and place a pull request to merge back here
